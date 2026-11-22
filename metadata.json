@@ -1,0 +1,6 @@
+{
+  "name": "Selaras",
+  "description": "Platform Calm Technology untuk pemetaan emosi-energi, ritme fokus adaptif siang hari, latihan napas & relaksasi mata 20-20-20, dan pemulihan layar malam (Digital Sunset).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
